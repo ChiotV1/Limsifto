@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #d9ef9f;
+    background-color: #445a14;
     font-family: 'Arial', sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
 
 .header_text {
     font-size: 3em;
-    color: #445a14;
+    color: #d9ef9f;
 }
 
 .gif_container img {
